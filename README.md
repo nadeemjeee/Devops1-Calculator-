@@ -50,22 +50,6 @@ cd devops1-calculator
 
 ---
 
-# Create Virtual Environment (Optional)
-
-Create virtual environment:
-
-```bash
-python3 -m venv venv
-```
-
-Activate environment on macOS/Linux:
-
-```bash
-source venv/bin/activate
-```
-
----
-
 # Install Dependencies
 
 ```bash
